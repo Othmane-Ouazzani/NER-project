@@ -1,7 +1,7 @@
 # named_entity_recognition
 
 ## Project Title
-Named Entity Recognition using BERT to extract certain featuresvfrom company contracts such as Names,Birth Dates,Addresses,Identity Card Number and Residence Permit
+Named Entity Recognition using BERT to extract certain features from company contracts such as Names,Birth Dates,Addresses,Identity Card Number and Residence Permit
 
 ## Model
 The BERT model used in this project is the pre-trained bert-base-cased model from Hugging Face Transformers.
